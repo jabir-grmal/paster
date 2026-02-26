@@ -1,0 +1,5 @@
+{
+  "name": "SMTP Validator & Parser",
+  "description": "A professional tool to parse, validate, and export SMTP credentials with real-time connectivity testing.",
+  "requestFramePermissions": []
+}
